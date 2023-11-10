@@ -1,0 +1,8 @@
+application.properties
+com\demo\model\Produit.class
+com\demo\model\GRADE.class
+com\demo\model\repository\ProduitRepository.class
+com\demo\model\repository\CommandeRepository.class
+com\demo\model\repository\ClientRepository.class
+com\demo\model\GENRE.class
+com\demo\model\Commande.class
